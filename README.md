@@ -22,8 +22,8 @@ I'm actively seeking opportunities to collaborate on projects that involve machi
 
 Here are a few projects I've worked on:
 
-1. [Capstone Project] - [Modelling European Football Player Valuation](https://github.com/MarcoWong96/Capstone-Project)
-2. [Analyzing trends in Video Game Sales] - [A SQL Project to dive deep into global video game sales](https://github.com/MarcoWong96/Video-Game-Sales-SQL-Project)
+1. Capstone Project - [Modelling European Football Player Valuation](https://github.com/MarcoWong96/Capstone-Project)
+2. Analyzing trends in Video Game Sales - [A SQL Project to dive deep into global video game sales](https://github.com/MarcoWong96/Video-Game-Sales-SQL-Project)
 
 Feel free to explore my repositories for more details on these projects!
 
