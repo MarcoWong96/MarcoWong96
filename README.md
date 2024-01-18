@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Marco, an aspiring data scientist passionate about leveraging data to derive meaningful insights and solve real-world problems. Currently, I am
+Hi there! 👋 I'm Marco, an aspiring data scientist passionate about leveraging data to derive meaningful insights and solve real-world problems.
 
 ## 🚀 What I'm Working On
 
