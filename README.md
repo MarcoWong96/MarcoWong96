@@ -29,6 +29,6 @@ Feel free to explore my repositories for more details on these projects!
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow data enthusiasts, developers, and anyone interested in collaborating on interesting projects. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/marco-won-g)
+I'm always open to connecting with fellow data enthusiasts, developers, and anyone interested in collaborating on interesting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marco-won-g)
 
 Looking forward to learning and growing together in the data science community! 🌐
